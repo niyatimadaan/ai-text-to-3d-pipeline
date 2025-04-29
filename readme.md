@@ -2,8 +2,6 @@
 
 This application transforms text descriptions into beautiful 3D models using AI. The pipeline enhances prompts with a local LLM, generates images, and converts them to 3D models while maintaining memory of all creations.
 
-![3D Creation Pipeline](https://example.com/screenshot.png)
-
 ## 🚀 Features
 
 - **Text-to-3D Generation**: Turn your creative text prompts into 3D models
@@ -51,7 +49,7 @@ pip install python-magic-bin
 python launch_app.py
 ```
 
-[Watch demo video](app/static/Openfabric AI.mp4)
+![Watch demo video](app\static\Openfabric AI.mp4)
 
 Open your browser and navigate to: http://localhost:8501
 
