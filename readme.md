@@ -2,7 +2,8 @@
 
 This application transforms text descriptions into beautiful 3D models using AI. The pipeline enhances prompts with a local LLM, generates images, and converts them to 3D models while maintaining memory of all creations.
 
-![Watch demo video](https://youtu.be/KRx5zJqm4U4)
+[![Watch demo video](https://youtu.be/KRx5zJqm4U4/0.jpg)](https://youtu.be/KRx5zJqm4U4)
+
 Also at /app/static/Openfabric AI.mp4
 
 ## 🚀 Features
