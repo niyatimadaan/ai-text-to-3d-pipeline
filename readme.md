@@ -49,7 +49,7 @@ pip install python-magic-bin
 python launch_app.py
 ```
 
-![Watch demo video](app\static\Openfabric AI.mp4)
+![Watch demo video](app/static/Openfabric AI.mp4)
 
 Open your browser and navigate to: http://localhost:8501
 
